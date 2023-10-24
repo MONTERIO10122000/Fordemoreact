@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fordemoreact/static/css/main.db798329.css",
+    "main.js": "/Fordemoreact/static/js/main.d9301c06.js",
+    "static/js/787.f587e8d5.chunk.js": "/Fordemoreact/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/Fordemoreact/index.html",
+    "main.db798329.css.map": "/Fordemoreact/static/css/main.db798329.css.map",
+    "main.d9301c06.js.map": "/Fordemoreact/static/js/main.d9301c06.js.map",
+    "787.f587e8d5.chunk.js.map": "/Fordemoreact/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.d9301c06.js"
+  ]
+}
